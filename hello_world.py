@@ -1,9 +1,6 @@
 greeting = "Hello!"
 print(greeting)
 
-greeting = "Hello!"
-print(greeting)
-
 def mean(a, b):
     return (a+b)/2
 
